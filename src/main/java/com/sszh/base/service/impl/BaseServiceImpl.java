@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import java.sql.Timestamp;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: BaseServiceImpl
  * @Package com.sszh.base.service.impl
  * @Description: 实现BaseService 服务接口

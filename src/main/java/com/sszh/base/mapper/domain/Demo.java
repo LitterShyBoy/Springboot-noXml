@@ -7,7 +7,7 @@ import javax.persistence.Table;
 import java.sql.Timestamp;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: Demo
  * @Package com.sszh.base.mapper.domain
  * @Description: Demo实体类

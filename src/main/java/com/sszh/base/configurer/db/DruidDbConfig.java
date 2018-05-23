@@ -11,7 +11,7 @@ import javax.sql.DataSource;
 import java.sql.SQLException;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: DruidDbConfig
  * @Package com.sszh.base.configurer.db
  * @Description: druid配置类

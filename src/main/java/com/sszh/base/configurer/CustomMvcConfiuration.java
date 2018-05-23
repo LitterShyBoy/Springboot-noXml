@@ -14,7 +14,7 @@ import java.nio.charset.Charset;
 import java.util.List;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title:  CustomMvcConfiuration
  * @Package com.sszh.base.Configurer
  * @Description: 自定义拦截器

@@ -14,7 +14,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: BaseController
  * @Package com.sszh.base.controller
  * @Description: 控制器

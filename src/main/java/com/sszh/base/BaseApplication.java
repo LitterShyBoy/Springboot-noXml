@@ -12,7 +12,7 @@ import java.util.Properties;
 * @Title:  BaseApplication
 * @Package com.sszh.base
 * @Description: Spring boot start class
-* @author XuGuang
+* @author WangJianGuo
 * @date 2018/3/416:17
 */
 @SpringBootApplication

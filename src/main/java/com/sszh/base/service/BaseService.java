@@ -4,7 +4,7 @@ import com.sszh.base.controller.model.DemoModel;
 import com.sszh.base.controller.model.RequestDTO;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: BaseService
  * @Package
  * @Description:

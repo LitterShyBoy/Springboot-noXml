@@ -1,7 +1,7 @@
 package com.sszh.base.controller.inf;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: BaseControllerInf
  * @Package com.sszh.base.controller.inf
  * @Description: base控制层服务接口

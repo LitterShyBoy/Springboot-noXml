@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 import tk.mybatis.mapper.common.Mapper;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title:BaseMapper
  * @Package com.sszh.base.mapper
  * @Description: Base服务器层

@@ -6,7 +6,7 @@ import javax.servlet.annotation.WebInitParam;
 import javax.servlet.annotation.WebServlet;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: DruidStatViewServlet
  * @Package ${package_name}
  * @Description: ${todo}

@@ -13,7 +13,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.sql.Timestamp;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: BaseServiceTest
  * @Package com.sszh.base.service
  * @Description: BaseService 服务测试类

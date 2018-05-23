@@ -24,7 +24,7 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: BaseControllerTest
  * @Package com.sszh.base.controller
  * @Description: BaseController测试类

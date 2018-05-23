@@ -17,7 +17,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: LogRecordAspect
  * @Package com.sszh.pzycxw.configurer.aop
  * @Description: 定义AOP 拦截所有controller层的接口

@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.sql.Timestamp;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: BaseMapper测试类
  * @Package  com.sszh.base.mapper
  * @Description: BaseMapper测试类

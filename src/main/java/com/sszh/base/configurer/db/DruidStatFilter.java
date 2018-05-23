@@ -6,7 +6,7 @@ import javax.servlet.annotation.WebFilter;
 import javax.servlet.annotation.WebInitParam;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: DruidStatFilter
  * @Package  com.sszh.base.configurer.db
  * @Description: 配置监控拦截器

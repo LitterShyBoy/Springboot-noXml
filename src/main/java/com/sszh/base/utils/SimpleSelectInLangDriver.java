@@ -9,7 +9,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author XuGuang
+ * @author WangJianGuo
  * @Title: $SimpleSelectInLangDriver
  * @Package com.sszh.pzycxw.utils
  * @Description: 注解in用法用具类
